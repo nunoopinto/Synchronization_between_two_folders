@@ -1,0 +1,11 @@
+[2024-11-21 16:20:57] Copied/Updated file: source\file1.txt -> replica\.\file1.txt
+[2024-11-21 16:20:57] Copied/Updated file: source\file2.txt -> replica\.\file2.txt
+[2024-11-21 16:20:57] Created folder: replica\subdir1
+[2024-11-21 16:20:57] Copied/Updated file: source\subdir1\file3.txt -> replica\subdir1\file3.txt
+[2024-11-21 16:20:57] Copied/Updated file: source\subdir1\file4.txt -> replica\subdir1\file4.txt
+[2024-11-21 16:20:57] Created folder: replica\subdir2
+[2024-11-21 16:20:57] Copied/Updated file: source\subdir2\file5.txt -> replica\subdir2\file5.txt
+[2024-11-21 16:21:57] Removed file: replica\file2.txt
+[2024-11-21 16:22:27] Copied/Updated file: source\file2.txt -> replica\.\file2.txt
+[2024-11-22 16:13:36] Copied/Updated file: source\file1.txt -> replica\.\file1.txt
+[2024-11-22 16:14:06] Copied/Updated file: source\file1.txt -> replica\.\file1.txt
